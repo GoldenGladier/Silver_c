@@ -1,0 +1,22 @@
+#include<iostream>
+#include <sstream>
+using namespace std;
+std::string DNA;//Declaring the variable important 
+std::string Transcription(char caracter)//The funccion master
+{
+   std::stringstream result; //Declaring string for save result
+    
+    if(caracter = )
+
+    }
+    FacStream <<"1 = " << r;
+    return FacStream.str();
+}
+
+int main()
+{
+std::cout<<"\t\t\t\tRNA Transcription"<<endl<<"\t\t\t\tBy: Omar Aguirre"<<endl<<"Please enter the DNA do Transcription to RNA: ";
+std::cin>>DNA;
+std::cout<< factorial(number)<<std::endl;
+
+}
